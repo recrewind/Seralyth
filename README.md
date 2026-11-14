@@ -7,7 +7,7 @@
 <p align="center">
 	<a href="https://github.com/recrewind/Seralyth/releases"><img src="https://img.shields.io/github/v/release/recrewind/Seralyth?label=version&style=for-the-badge"></a>
 	<a href="https://github.com/recrewind/Seralyth/releases/latest"><img src="https://img.shields.io/github/downloads/recrewind/Seralyth/latest/Seralyth-Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/questmods"><img src="https://img.shields.io/discord/1500168360787447909?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://discord.gg/questmods"><img src="https://img.shields.io/discord/1562515216535785636?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 ---

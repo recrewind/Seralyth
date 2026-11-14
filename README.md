@@ -22,8 +22,9 @@ Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the com
   <summary><b>💾 Installation</b></summary>
 	
 1. **Download** the latest release **[here](https://github.com/recrewind/Seralyth/releases/latest)**
-2. **Open and Install** `Seralyth-Menu.apk`
-3. **Launch** nkhhi.gorillatag and enjoy!
+2. **Extract** `Seralyth-.-.-.zip`
+3. **Open and Install** `Seralyth-.-.-.apk`
+4. **Launch** nkhhi.gorillatag and enjoy!
 
 </details>
 

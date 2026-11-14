@@ -15,8 +15,7 @@
 # Seralyth Menu  
 <sub>Forked from ii's Stupid Menu</sub>
 
-Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
-
+Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. This menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
 
 <details>
   <summary><b>💾 Installation</b></summary>
@@ -35,8 +34,8 @@ Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the com
 	
 | Headset | Menu | Mods |
 |---------|------|------|
-|Oculus Go|⚠️|❌|
-|Quest 1|❌|❌|
+|Oculus Go|❌|❌|
+|Quest 1|❓|❓|
 |Quest 2|✅|⚠️|
 |Quest Pro|✅|✅|
 |Quest 3/3s|✅|✅|
@@ -57,3 +56,5 @@ Join our [Discord](https://discord.gg/questmods)!
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.<br>
 
 > This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
+> This is not the original Seralyth menu! This is a port of it to unity then put inside a Halloween 2026 Unity project.
+> Currently these are custom servers only. We are still working on official servers.
